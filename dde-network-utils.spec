@@ -1,15 +1,16 @@
 Name:           dde-network-utils
-Version:        5.0.4
+Version:        5.3.0.3
 Release:        1
 Summary:        Deepin desktop-environment - network utils
 License:        GPLv3
 URL:            https://github.com/linuxdeepin/dde-network-utils
-Source0:        %{name}_%{version}.orig.tar.xz	
+Source0:        %{name}_%{version}.orig.tar.xz
 
 BuildRequires:  gcc-c++
 BuildRequires:  dde-qt-dbus-factory-devel
 BuildRequires:  pkgconfig(Qt5Core)
 BuildRequires:  qt5-linguist
+BuildRequires:  pkgconfig(gsettings-qt)
 
 %description
 Deepin desktop-environment - network utils.
@@ -45,5 +46,8 @@ sed -i 's|/lib$|/%{_lib}|' dde-network-utils.pro
 %{_libdir}/lib*.so
 
 %changelog
+* Thu Jul 08 2021 weidong <weidong@uniontech.com> - 5.3.0.3-1
+- Update 5.3.0.3
+
 * Thu Jul 30 2020 openEuler Buildteam <buildteam@openeuler.org> - 5.0.4-1
 - Package init
