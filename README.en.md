@@ -14,7 +14,7 @@ dnf install dde-network-utils
 
 Check your network status by clicking the network icon in Dock.
 
-![](/home/coco/Desktop/kouhuiying/01_test/02_testcase/dde-network-utils/images/54.png)
+![](images/54.png)
 
 1. Wired Network
 
@@ -24,7 +24,7 @@ Check your network status by clicking the network icon in Dock.
 
       2) Plug another end of the cable into the router or network port.
 
-      3) On the homepage of Control Center, click![](/home/coco/Desktop/kouhuiying/01_test/02_testcase/dde-network-utils/images/icon97-o.svg).
+      3) On the homepage of Control Center, click![](images/icon97-o.svg).
 
       4) Click **Wired Network** to enter the setting page of wired network.
 
@@ -40,11 +40,11 @@ Check your network status by clicking the network icon in Dock.
 
    Create a PPPoE Connection:
 
-      1) On the homepage of Control Center, click ![](/home/coco/Desktop/kouhuiying/01_test/02_testcase/dde-network-utils/images/icon97-o.svg).
+      1) On the homepage of Control Center, click ![](images/icon97-o.svg).
 
       2) Click **DSL**.
 
-      3) Click ![](/home/coco/Desktop/kouhuiying/01_test/02_testcase/dde-network-utils/images/icon50-o.svg).
+      3) Click ![](images/icon50-o.svg).
 
       4) Enter the name, your account and password the operator provides.
 
@@ -54,9 +54,9 @@ Check your network status by clicking the network icon in Dock.
 
    VPN is a virtual private network. Its main function is to establish a private network on the public network for encrypted communication. Whether you are on a business trip or working at home, you can use VPN to access intranet resources as long as you can access the Internet. You can also use VPN to speed up access to websites in other countries.
 
-      1) On the homepage of Control Center, click ![](/home/coco/Desktop/kouhuiying/01_test/02_testcase/dde-network-utils/images/icon97-o.svg).
+      1) On the homepage of Control Center, click ![](images/icon97-o.svg).
 
-      2) Click **VPN**, and click ![](/home/coco/Desktop/kouhuiying/01_test/02_testcase/dde-network-utils/images/icon50-o.svg)or ![](/home/coco/Desktop/kouhuiying/01_test/02_testcase/dde-network-utils/images/icon84-o.svg).
+      2) Click **VPN**, and click ![](images/icon50-o.svg)or ![](images/icon84-o.svg).
 
       3) Select the VPN protocol type, and enter the name, gateway, account, password and other information. (Importing VPN will automatically fill in information)
 
@@ -64,11 +64,11 @@ Check your network status by clicking the network icon in Dock.
 
       5) You can export the VPN settings to backup or share with other users.
 
-   > ![](/home/coco/Desktop/kouhuiying/01_test/02_testcase/dde-network-utils/images/icon99-o.svg)Notes: *If you don't want to use the VPN as the default routing, but only want it to take effect on specific network resources, switch on **Only applied in corresponding resources**.*
+   > ![](images/icon99-o.svg)Notes: *If you don't want to use the VPN as the default routing, but only want it to take effect on specific network resources, switch on **Only applied in corresponding resources**.*
 
 4. System Proxy
 
-      1) On the homepage of Control Center, click ![](/home/coco/Desktop/kouhuiying/01_test/02_testcase/dde-network-utils/images/icon97-o.svg).
+      1) On the homepage of Control Center, click ![](images/icon97-o.svg).
 
       2) Click **System Proxy**.
 
@@ -80,7 +80,7 @@ Check your network status by clicking the network icon in Dock.
 
 5.  Application Proxy
 
-       1) On the homepage of Control Center, click ![](/home/coco/Desktop/kouhuiying/01_test/02_testcase/dde-network-utils/images/icon97-o.svg).
+       1) On the homepage of Control Center, click ![](images/icon97-o.svg).
 
        2) Click **Application Proxy**.
 
@@ -88,13 +88,13 @@ Check your network status by clicking the network icon in Dock.
 
        4) Click **Save** to save the proxy settings.
 
-    > ![](/home/coco/Desktop/kouhuiying/01_test/02_testcase/dde-network-utils/images/icon99-o.svg)Notes: *After being configured, run Launcher, right-click any application's icon and check **Use a proxy**, and then the application will be opened by proxy.*
+    > ![](images/icon99-o.svg)Notes: *After being configured, run Launcher, right-click any application's icon and check **Use a proxy**, and then the application will be opened by proxy.*
 
 6.  Network Info
 
     You can view MAC, IP address, gateway and other network info in network details.
 
-       1) On the homepage of Control Center, click ![](/home/coco/Desktop/kouhuiying/01_test/02_testcase/dde-network-utils/images/icon97-o.svg).
+       1) On the homepage of Control Center, click ![](images/icon97-o.svg).
 
        2) Click **Network Details**.
 
