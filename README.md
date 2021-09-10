@@ -15,7 +15,7 @@ dnf install dde-network-utils
 
 您可以通过打开控制中心-网络，查看当前网络状态。
 
-![](/home/coco/Desktop/kouhuiying/01_test/02_testcase/dde-network-utils/images/54.png)
+![](images/54.png)
 
 1. 有线网络
 
@@ -25,7 +25,7 @@ dnf install dde-network-utils
 
    2）将网线的另一端插入路由器或网络端口。
 
-   3）在控制中心首页，单击![](/home/coco/Desktop/kouhuiying/01_test/02_testcase/dde-network-utils/images/icon97-o.svg)。
+   3）在控制中心首页，单击![](images/icon97-o.svg)。
 
    4）单击**有线网络**，进入有线网络设置界面。
 
@@ -41,9 +41,9 @@ dnf install dde-network-utils
 
    新建拨号连接步骤：
 
-   1）在控制中心首页，点击![](/home/coco/Desktop/kouhuiying/01_test/02_testcase/dde-network-utils/images/icon97-o.svg)。
+   1）在控制中心首页，点击![](images/icon97-o.svg)。
 
-   2）单击**DSL**，单击![](/home/coco/Desktop/kouhuiying/01_test/02_testcase/dde-network-utils/images/icon50-o.svg)。
+   2）单击**DSL**，单击![](images/icon50-o.svg)。
 
    3）输入宽带名称、帐户、密码。
 
@@ -53,9 +53,9 @@ dnf install dde-network-utils
 
    VPN即虚拟专用网络，其主要功能是在公用网络上建立专用网络，进行加密通讯。无论您是在外地出差还是在家中办公，只要能上网就能利用VPN访问企业的内网资源。您还可以使用VPN加速访问其他国家的网站。
 
-   1）在控制中心首页，单击![](/home/coco/Desktop/kouhuiying/01_test/02_testcase/dde-network-utils/images/icon97-o.svg) 。
+   1）在控制中心首页，单击![](images/icon97-o.svg) 。
 
-   2）点击**VPN**，选择![](/home/coco/Desktop/kouhuiying/01_test/02_testcase/dde-network-utils/images/icon50-o.svg)或者![](/home/coco/Desktop/kouhuiying/01_test/02_testcase/dde-network-utils/images/icon84-o.svg)。
+   2）点击**VPN**，选择![](images/icon50-o.svg)或者![](images/icon84-o.svg)。
 
    3）选择VPN协议类型，并输入名称、网关、帐号、密码等信息。（导入VPN会自动填充信息）
 
@@ -63,11 +63,11 @@ dnf install dde-network-utils
 
    5）您可以将VPN设置导出，备用或共享给其他用户。
 
-   > ![](/home/coco/Desktop/kouhuiying/01_test/02_testcase/dde-network-utils/images/icon99-o.svg)说明：*打开 **仅用于相对应的网络上的资源** 开关，可以不将VPN设置为默认路由，只在特定的网络资源上生效。*
+   > ![](images/icon99-o.svg)说明：*打开 **仅用于相对应的网络上的资源** 开关，可以不将VPN设置为默认路由，只在特定的网络资源上生效。*
 
 4. 系统代理
 
-   1）在控制中心首页，单击![](/home/coco/Desktop/kouhuiying/01_test/02_testcase/dde-network-utils/images/icon97-o.svg)。
+   1）在控制中心首页，单击![](images/icon97-o.svg)。
 
    2）单击 **系统代理**，进入系统代理界面。
 
@@ -79,7 +79,7 @@ dnf install dde-network-utils
 
 5. 应用代理
 
-   1）在控制中心首页，单击![](/home/coco/Desktop/kouhuiying/01_test/02_testcase/dde-network-utils/images/icon97-o.svg)。
+   1）在控制中心首页，单击![](images/icon97-o.svg)。
 
    2）单击**应用代理**。
 
@@ -87,13 +87,13 @@ dnf install dde-network-utils
 
    4）单击**保存**。
 
-   > ![](/home/coco/Desktop/kouhuiying/01_test/02_testcase/dde-network-utils/images/icon99-o.svg)说明：*应用代理设置成功后，打开启动器，右键单击应用图标，可以选择 **使用代理**。*
+   > ![](images/icon99-o.svg)说明：*应用代理设置成功后，打开启动器，右键单击应用图标，可以选择 **使用代理**。*
 
 6. 网络详情
 
    在网络详情界面，您可以查看MAC、IP地址、网关和其他网络信息。
 
-   1）在控制中心首页，单击![](/home/coco/Desktop/kouhuiying/01_test/02_testcase/dde-network-utils/images/icon97-o.svg)。
+   1）在控制中心首页，单击![](images/icon97-o.svg)。
 
    2）单击**网络详情**，进入网络信息界面。
 
